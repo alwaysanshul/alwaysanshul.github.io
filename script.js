@@ -5,7 +5,7 @@ LinkedIn: https://www.linkedin.com/in/alwaysanshul
 
 Education:
 - [Graphic Era Deemed University], [B.TECH CSE], [2024]
-  - Certifications: [AWS Solutions Architect Associate], [Azure AI Fundamentals]
+  - Certifications: [Azure AI Fundamentals]
 
 Skills:
 - Programming Languages: [C,C++,Java,Python,HTML,SQL]
@@ -13,12 +13,7 @@ Skills:
 - Technical skills: [Data Structures and Algorithms, Object Oriented Programming, Operating System, DBMS]
 
 Projects:
-1. [Intelligent Video Surveillance]
-    - Description: This project aims to make advanced real-time object tracking to ensure security and
-    proactive threat prevention.
-   - Technology Used: [YOLOv4, OpenCV, Flask, Python, Numpy, Pandas]
-
-2. [FitHub: The Exercise and Yoga App]
+1. [FitHub: The Exercise and Yoga App]
    - Description: This Project aims to predict the correctness of pose and track
     ing of exercise in real-time to provide an innovative platform to help people improve their physical 
      health.    
